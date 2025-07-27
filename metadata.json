@@ -1,0 +1,6 @@
+{
+  "name": "AI Pinterest Pin Generator",
+  "description": "An AI tool to generate titles, descriptions, and images for Pinterest pins from an Amazon product title.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}

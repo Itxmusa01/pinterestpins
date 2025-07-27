@@ -1,0 +1,8 @@
+{
+  "name": "ai-pinterest-pin-generator-serverless",
+  "version": "1.0.0",
+  "description": "Serverless backend for AI Pinterest Pin Generator",
+  "dependencies": {
+    "@google/genai": "^1.11.0"
+  }
+}
